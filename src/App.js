@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
 import './App.css';
-import ResultsList from "./components/results-list/ResultsList";
+import TournamentList from "./components/tournament-list/TournamentList";
 
 class App extends Component {
   render() {
     return (
-      <ResultsList/>
+      <TournamentList/>
     );
   }
 }
