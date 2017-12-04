@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Tournament from "../tournament/Tournament";
-import {data} from './data';
+import data from './data.json';
 
 export default class TournamentList extends Component {
   render() {
