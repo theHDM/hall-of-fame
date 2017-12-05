@@ -9,7 +9,8 @@ export default class TournamentList extends Component {
 
     return (
       <div className="container">
-        <h1 className="text-center">Hall Of Fame</h1>
+        https://v4-alpha.getbootstrap.com/components/card/
+        <h1 className="text-center">Carnage League Hall Of Fame</h1>
           {tournamentItems}
       </div>
     );

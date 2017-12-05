@@ -1,23 +1,24 @@
 [
   {
-    "tournamentName": "TestName1",
+    "tournamentName": "Uniorz Challenge Duel Cup 4",
     "results": [
       {
-        "nickname": "TestUser1",
-        "placement": 2,
-        "prize": "500 RUR",
-        "country": "RU"
-      },
-      {
-        "nickname": "TestUser2",
+        "nickname": "MiXeR",
         "placement": 1,
-        "prize": "1500 RUR",
+        "prize": "15 EUR Steam card",
         "country": "UA"
       },
       {
-        "nickname": "TestUser3",
+        "nickname": "antemos",
+        "placement": 2,
+        "prize": "750 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "cyberg",
         "placement": 3,
-        "country": "BY"
+        "prize": "500 RUR",
+        "country": "RU"
       }
     ]
   },

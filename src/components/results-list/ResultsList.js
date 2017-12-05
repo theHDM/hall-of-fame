@@ -7,7 +7,7 @@ export default class ResultsList extends Component {
 
     return (
       <div className="container">
-        <div className="row">
+        <div className="row justify-content-center">
           {resultItems}
         </div>
       </div>
