@@ -1,6 +1,7 @@
 [
   {
     "tournamentName": "Uniorz Challenge Duel Cup 4",
+    "date": "2017-11-25",
     "results": [
       {
         "nickname": "MiXeR",
@@ -23,24 +24,71 @@
     ]
   },
   {
-    "tournamentName": "TestName2",
+    "tournamentName": "Uniorz Challenge Duel Cup 3",
+    "date": "2017-11-18",
     "results": [
       {
-        "nickname": "TestUserino1",
+        "nickname": "danches",
         "placement": 1,
-        "prize": "50 USD",
+        "prize": "1000 RUR",
         "country": "RU"
       },
       {
-        "nickname": "TestUseretto2",
+        "nickname": "NoMouse",
         "placement": 2,
-        "prize": "150 RUR",
-        "country": "UA"
+        "prize": "1000 RUR",
+        "country": "RU"
       },
       {
-        "nickname": "TestUser3",
+        "nickname": "jokke",
         "placement": 3,
-        "country": "BY"
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 2",
+    "date": "2017-11-08",
+    "results": [
+      {
+        "nickname": "sashkapulya",
+        "placement": 1,
+        "prize": "",
+        "country": "RU"
+      },
+      {
+        "nickname": "CH33RRA",
+        "placement": 2,
+        "prize": "",
+        "country": "RU"
+      },
+      {
+        "nickname": "BaTHbIEPyKi / BarsMinsk",
+        "placement": 3,
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 1",
+    "date": "2017-11-05",
+    "results": [
+      {
+        "nickname": "ZOONY",
+        "placement": 1,
+        "prize": "",
+        "country": "RU"
+      },
+      {
+        "nickname": "keeler",
+        "placement": 2,
+        "prize": "",
+        "country": "RU"
+      },
+      {
+        "nickname": "klyb",
+        "placement": 3,
+        "country": "RU"
       }
     ]
   }
