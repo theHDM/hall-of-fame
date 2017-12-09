@@ -1,5 +1,29 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 5",
+    "date": "2017-12-09",
+    "results": [
+      {
+        "nickname": "CTuH9I",
+        "placement": 1,
+        "prize": "1000 RUR",
+        "country": "BY"
+      },
+      {
+        "nickname": "HDM",
+        "placement": 2,
+        "prize": "500 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "klyb",
+        "placement": 3,
+        "prize": "250 RUR",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 4",
     "date": "2017-11-25",
     "results": [
@@ -63,7 +87,12 @@
         "country": "RU"
       },
       {
-        "nickname": "BaTHbIEPyKi / BarsMinsk",
+        "nickname": "BarsMinsk",
+        "placement": 3,
+        "country": "BY"
+      },
+      {
+        "nickname": "BaTHbIEPyKi",
         "placement": 3,
         "country": "RU"
       }
