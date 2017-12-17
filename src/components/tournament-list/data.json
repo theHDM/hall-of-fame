@@ -1,5 +1,31 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 6",
+    "date": "2017-12-16",
+    "bracket": "http://carnage.challonge.com/uniorzQC6",
+    "video": "https://www.youtube.com/watch?v=tQR5BED_wyY&list=PLlLf3prDH-OloDiVsedFC3za0ioIdau2E",
+    "results": [
+      {
+        "nickname": "ProVest",
+        "placement": 1,
+        "prize": "1000 RUR, 1 chest",
+        "country": "RU"
+      },
+      {
+        "nickname": "CH33RRA",
+        "placement": 2,
+        "prize": "500 RUR, 1 chest",
+        "country": "RU"
+      },
+      {
+        "nickname": "sno",
+        "placement": 3,
+        "prize": "300 RUR Steam card, 1 chest",
+        "country": "GB"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 5",
     "date": "2017-12-09",
     "results": [
