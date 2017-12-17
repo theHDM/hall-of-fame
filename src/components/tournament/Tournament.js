@@ -11,10 +11,14 @@ export default class Tournament extends Component {
                         {this.props.date}
                     </span>
                     {this.props.video &&
-                        <a target="_blank" className="ec ec-tv mr-1 no-underline" href={this.props.video}></a>
+                        <a target="_blank" className="mr-1 no-underline" href={this.props.video}>
+                            <span className="ec ec-tv"></span>
+                        </a>
                     }
                     {this.props.bracket &&
-                        <a target="_blank" className="ec ec-trophy no-underline" href={this.props.bracket}></a>
+                        <a target="_blank" className="mr-1 no-underline" href={this.props.bracket}>
+                            <span className="ec ec-trophy"></span>
+                        </a>
                     }
                 </p>
                 <ResultsList {...this.props}/>
