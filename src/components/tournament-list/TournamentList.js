@@ -9,7 +9,7 @@ export default class TournamentList extends Component {
 
         return (
             <div className="container">
-                <h1 class="display-3 text-center mb-5 mt-2">Carnage League Hall Of&nbsp;Fame</h1>
+                <h1 className="display-3 text-center mb-5 mt-2">Carnage League Hall Of&nbsp;Fame</h1>
                 {tournamentItems}
             </div>
         );
