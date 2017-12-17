@@ -6,7 +6,7 @@ export default class Tournament extends Component {
         return (
             <div className="mb-4">
                 <h2 className="mb-1">{this.props.tournamentName}</h2>
-                <p class="font-weight-light">
+                <p className="font-weight-light">
                     <span className="mr-1">
                         {this.props.date}
                     </span>
