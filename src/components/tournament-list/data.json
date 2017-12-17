@@ -28,6 +28,8 @@
   {
     "tournamentName": "Uniorz Challenge Duel Cup 5",
     "date": "2017-12-09",
+    "bracket": "http://challonge.com/uniorzqc55",
+    "video": "https://www.youtube.com/watch?v=LRG4Xq8M4R8&list=PLhBZp2W3AbYobvNkYHf2qfNDCAxIDrxt9",
     "results": [
       {
         "nickname": "CTuH9I",
@@ -52,6 +54,7 @@
   {
     "tournamentName": "Uniorz Challenge Duel Cup 4",
     "date": "2017-11-25",
+    "bracket": "http://challonge.com/uniorzQC4",
     "results": [
       {
         "nickname": "MiXeR",
@@ -76,6 +79,7 @@
   {
     "tournamentName": "Uniorz Challenge Duel Cup 3",
     "date": "2017-11-18",
+    "bracket": "http://challonge.com/uniorzQC",
     "results": [
       {
         "nickname": "danches",
@@ -99,6 +103,7 @@
   {
     "tournamentName": "Uniorz Challenge Duel Cup 2",
     "date": "2017-11-08",
+    "bracket": "https://goodgame.ru/cup/6196/grid/",
     "results": [
       {
         "nickname": "sashkapulya",
