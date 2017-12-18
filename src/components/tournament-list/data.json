@@ -55,6 +55,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 4",
     "date": "2017-11-25",
     "bracket": "http://challonge.com/uniorzQC4",
+    "video": "https://www.youtube.com/watch?v=W_8-GPMs7Qw&list=PLhBZp2W3AbYqR4XQjYeALnL3ecmeXzBj6",
     "results": [
       {
         "nickname": "MiXeR",
@@ -80,6 +81,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 3",
     "date": "2017-11-18",
     "bracket": "http://challonge.com/uniorzQC",
+    "video": "https://www.youtube.com/watch?v=RFZS2UVSzgE&list=PLhBZp2W3AbYqz-KcSH6NCOHfYrsJqv5jm",
     "results": [
       {
         "nickname": "danches",
@@ -104,6 +106,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 2",
     "date": "2017-11-08",
     "bracket": "https://goodgame.ru/cup/6196/grid/",
+    "video": "https://www.youtube.com/watch?v=TI4Uh0JAA5A&list=PLhBZp2W3AbYqdXrPQ1Eg7o3PYA0utF8Pl",
     "results": [
       {
         "nickname": "sashkapulya",
@@ -132,6 +135,8 @@
   {
     "tournamentName": "Uniorz Challenge Duel Cup 1",
     "date": "2017-11-05",
+    "bracket" : "https://binarybeast.com/x1711052/participants#brackets",
+    "video": "https://www.youtube.com/watch?v=QidY1LWdk2s&list=PLhBZp2W3AbYqBQK8H1nYv0oioDZ3YztRL",
     "results": [
       {
         "nickname": "ZOONY",
