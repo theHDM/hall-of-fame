@@ -4,7 +4,51 @@
     right: 36px;
     height: 120px;
     opacity: 0.5;
+
+    animation-duration: 36s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-name: quakeColors;
 }
+
+@media (max-width: 575px) {
+    .quake-logo {
+        bottom: 12px;
+        right: 18px;
+        height: 60px;
+    }
+}
+
 .no-underline {
     text-decoration: none !important;
+}
+
+@keyframes quakeColors {
+    0% {
+        fill: #D4145A;
+    }
+    11% {
+        fill: #FBB03B;
+    }
+    22% {
+        fill: #009245;
+    }
+    33% {
+        fill: #FCEE21;
+    }
+    45% {
+        fill: #2E3192;
+    }
+    56% {
+        fill: #1bffff;
+    }
+    67% {
+        fill: #662D8C;
+    }
+    78% {
+        fill:  #ED1E79;
+    }
+    100% {
+        fill: #D4145A;;
+    }
 }
