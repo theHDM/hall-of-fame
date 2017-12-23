@@ -1,5 +1,30 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 7",
+    "date": "2017-12-23",
+    "bracket": "http://carnage.challonge.com/uniorzQC7",
+    "results": [
+      {
+        "nickname": "NonServium",
+        "placement": 1,
+        "prize": "1000 RUR (donated it back to prize fund), 1 chest",
+        "country": "RU"
+      },
+      {
+        "nickname": "ProVest",
+        "placement": 2,
+        "prize": "500 RUR, 1 chest",
+        "country": "RU"
+      },
+      {
+        "nickname": "MiXeR",
+        "placement": 3,
+        "prize": "250 RUR, 1 backpack",
+        "country": "UA"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 6",
     "date": "2017-12-16",
     "bracket": "http://carnage.challonge.com/uniorzQC6",
