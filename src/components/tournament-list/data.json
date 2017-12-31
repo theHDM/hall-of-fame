@@ -1,5 +1,55 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 8 MID",
+    "date": "2017-12-30",
+    "bracket": "http://carnage.challonge.com/uniorzQC8_MID",
+    "results": [
+      {
+        "nickname": "MiXeR",
+        "placement": 1,
+        "prize": "Razer BlackWidow X Tournament Edition",
+        "country": "UA"
+      },
+      {
+        "nickname": "ProVest",
+        "placement": 2,
+        "prize": "1000 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "HDM",
+        "placement": 3,
+        "prize": "500 RUR",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 8 LOW",
+    "date": "2017-12-30",
+    "bracket": "http://carnage.challonge.com/uniorzQC8_LOW",
+    "results": [
+      {
+        "nickname": "1f0x",
+        "placement": 1,
+        "prize": "10 euro Steam card, 2 chests, 2 backpacks",
+        "country": "DE"
+      },
+      {
+        "nickname": "Yanai",
+        "placement": 2,
+        "prize": "1 chest, 1 backpack",
+        "country": "EU"
+      },
+      {
+        "nickname": "VomittinG",
+        "placement": 3,
+        "prize": "1 chest, 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 7",
     "date": "2017-12-23",
     "bracket": "http://carnage.challonge.com/uniorzQC7",
