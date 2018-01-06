@@ -1,5 +1,56 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 9 MID",
+    "date": "2017-12-30",
+    "bracket": "http://carnage.challonge.com/uniorzQC9_MID",
+    "results": [
+      {
+        "nickname": "Rell",
+        "placement": 1,
+        "prize": "Razer DeathAdder Elite",
+        "country": "RU"
+      },
+      {
+        "nickname": "ethna",
+        "placement": 2,
+        "prize": "Quake t-shirt",
+        "country": "RU"
+      },
+      {
+        "nickname": "CH33RRA",
+        "placement": 3,
+        "prize": "250 RUR",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 9 LOW",
+    "date": "2018-01-06",
+    "bracket": "http://carnage.challonge.com/uniorzQC9_LOW",
+    "video": "https://www.youtube.com/watch?v=vFKMpDKtISc",
+    "results": [
+      {
+        "nickname": "LadyDiana",
+        "placement": 1,
+        "prize": "2 chests, 2 backpacks",
+        "country": "BY"
+      },
+      {
+        "nickname": "Yanai",
+        "placement": 2,
+        "prize": "1 chest, 1 backpack",
+        "country": "NO"
+      },
+      {
+        "nickname": "n0cturn3",
+        "placement": 3,
+        "prize": "1 chest, 1 backpack",
+        "country": "GB"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 8 MID",
     "date": "2017-12-30",
     "bracket": "http://carnage.challonge.com/uniorzQC8_MID",
