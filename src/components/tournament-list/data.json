@@ -1,7 +1,82 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 10 DIAMOND",
+    "date": "2017-01-13",
+    "bracket": "http://carnage.challonge.com/uniorzQC10_DIAMOND",
+    "results": [
+      {
+        "nickname": "pecka",
+        "placement": 1,
+        "prize": "10 euro Steam card (donated it back to prize fund)",
+        "country": "RU"
+      },
+      {
+        "nickname": "MiXeR",
+        "placement": 2,
+        "prize": "300 RUR Steam card",
+        "country": "UA"
+      },
+      {
+        "nickname": "h8m3",
+        "placement": 3,
+        "prize": "1 chest, 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 10 GOLD",
+    "date": "2017-01-13",
+    "bracket": "http://carnage.challonge.com/uniorzQC10_GOLD",
+    "results": [
+      {
+        "nickname": "Revan",
+        "placement": 1,
+        "prize": "1 chest, 300 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Taka",
+        "placement": 2,
+        "prize": "1 chest, 150 RUR Steam card",
+        "country": "DE"
+      },
+      {
+        "nickname": "freakperl",
+        "placement": 3,
+        "prize": "1 chest",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 10 SILVER",
+    "date": "2017-01-13",
+    "bracket": "http://carnage.challonge.com/uniorzQC10_SILVER",
+    "results": [
+      {
+        "nickname": "Anak1n",
+        "placement": 1,
+        "prize": "1 backpack",
+        "country": "RS"
+      },
+      {
+        "nickname": "DefDogs",
+        "placement": 1,
+        "prize": "1 backpack",
+        "country": "RU"
+      },
+      {
+        "nickname": "Zen_YS",
+        "placement": 3,
+        "prize": "1 backpack",
+        "country": "BY"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 9 MID",
-    "date": "2017-12-30",
+    "date": "2017-01-06",
     "bracket": "http://carnage.challonge.com/uniorzQC9_MID",
     "video" :"https://www.youtube.com/watch?v=rIQ7p3c-EsA&list=PLhBZp2W3AbYpoiGtcxRp-20ZfCyltnjhM",
     "results": [
