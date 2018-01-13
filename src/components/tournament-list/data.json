@@ -32,13 +32,13 @@
       {
         "nickname": "Revan",
         "placement": 1,
-        "prize": "1 chest, 300 RUR",
+        "prize": "300 RUR, 1 chest",
         "country": "RU"
       },
       {
         "nickname": "Taka",
         "placement": 2,
-        "prize": "1 chest, 150 RUR Steam card",
+        "prize": "150 RUR Steam card, 1 chest",
         "country": "DE"
       },
       {
@@ -57,19 +57,19 @@
       {
         "nickname": "Anak1n",
         "placement": 1,
-        "prize": "1 backpack",
+        "prize": "750 RUR Steam card, 1 backpack",
         "country": "RS"
       },
       {
         "nickname": "DefDogs",
-        "placement": 1,
-        "prize": "1 backpack",
+        "placement": 2,
+        "prize": "500 RUR, 1 backpack",
         "country": "RU"
       },
       {
         "nickname": "Zen_YS",
         "placement": 3,
-        "prize": "1 backpack",
+        "prize": "300 RUR Steam card, 1 backpack",
         "country": "BY"
       }
     ]
