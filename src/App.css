@@ -1,3 +1,17 @@
+.discord-link {
+    position: fixed;
+    bottom: 24px;
+    left: 24px;
+    opacity: 0.1;
+    transition: 1.2s;
+}
+.discord-link:hover {
+    opacity: 1;
+}
+.discord-link__svg {
+    height: 40px;
+}
+
 .quake-logo {
     position: fixed;
     bottom: 24px;
