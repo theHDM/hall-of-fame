@@ -5,10 +5,12 @@
   "homepage": "https://codenotfound.github.io/hall-of-fame/",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
+    "country-code-emoji": "0.0.1",
     "emoji.css": "^1.0.1",
     "flag-icon-css": "^2.9.0",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.9",
+    "query-string": "^5.0.1",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17"

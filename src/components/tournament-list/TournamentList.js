@@ -4,8 +4,9 @@ import data from './data.json';
 
 export default class TournamentList extends Component {
     render() {
-
-        const tournamentItems = data.map((tournament, i) => <Tournament key={`tournament_${i}`} {...tournament}/>);
+        const tournamentItems = data.map((tournament, i) =>
+          <Tournament key={`tournament_${i}`} {...tournament} renderMode={this.props.renderMode}/>
+        );
 
         return (
             <div className="container">
