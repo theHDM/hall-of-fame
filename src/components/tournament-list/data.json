@@ -1,8 +1,84 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 13 DIAMOND",
+    "date": "2017-02-10",
+    "bracket": "http://carnage.challonge.com/uniorzQC13_DIAMOND_2100",
+    "results": [
+      {
+        "nickname": "ProVest",
+        "placement": 1,
+        "prize": "500 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "L1mp",
+        "placement": 2,
+        "prize": "150 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "napalot",
+        "placement": 3,
+        "prize": "2 chests + 2 backpacks",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 13 GOLD",
+    "date": "2017-02-10",
+    "bracket": "http://carnage.challonge.com/uniorzQC13_GOLD_1725",
+    "results": [
+      {
+        "nickname": "Revan",
+        "placement": 1,
+        "prize": "10 EUR Steam card",
+        "country": "RU"
+      },
+      {
+        "nickname": "ymep",
+        "placement": 2,
+        "prize": "150 RUR Steam card",
+        "country": "PL"
+      },
+      {
+        "nickname": "keeler",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 13 SILVER",
+    "date": "2017-02-10",
+    "bracket": "http://carnage.challonge.com/uniorzQC13_SILVER_1350",
+    "results": [
+      {
+        "nickname": "Stealmer",
+        "placement": 1,
+        "prize": "1000 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "GedG",
+        "placement": 2,
+        "prize": "500 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "NikitkaKalmar",
+        "placement": 3,
+        "prize": "250 RUR (donated it back to prize fund), 1\u00a0chest + 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 12 DIAMOND",
     "date": "2017-02-03",
     "bracket": "http://carnage.challonge.com/uniorzQC12_DIAMOND_2100",
+    "video": "https://www.youtube.com/playlist?list=PL81RL9OKZHKTZp26vOjQvHVsm_xJhv8eZ",
     "results": [
       {
         "nickname": "ethna",
@@ -28,6 +104,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 12 GOLD",
     "date": "2017-02-03",
     "bracket": "http://carnage.challonge.com/uniorzQC12_GOLD_1725",
+    "video": "https://www.youtube.com/watch?v=db2o9H2tyDI",
     "results": [
       {
         "nickname": "s1d1r",
@@ -53,6 +130,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 12 SILVER",
     "date": "2017-02-03",
     "bracket": "http://carnage.challonge.com/uniorzQC12_SILVER_1350",
+    "video": "https://www.youtube.com/watch?v=_-i-dj31GnM&list=PLhBZp2W3AbYp6ANP6Clukhg9Azk4PqoPL",
     "results": [
       {
         "nickname": "ZenYS",
@@ -67,7 +145,7 @@
         "country": "RU"
       },
       {
-        "nickname": "GedJ",
+        "nickname": "GedG",
         "placement": 3,
         "prize": "1 chest + 1 backpack",
         "country": "RU"
