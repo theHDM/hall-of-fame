@@ -1,5 +1,69 @@
 [
   {
+    "tournamentName": "Uniorz Challenge Duel Cup 15 DIAMOND",
+    "date": "2017-02-24",
+    "bracket": "http://carnage.challonge.com/uniorzQC15_DIAMOND_2100",
+    "results": [
+      {
+        "nickname": "L1mp",
+        "placement": 1,
+        "prize": "ZOWIE FK2",
+        "country": "RU"
+      },
+      {
+        "nickname": "pdemon",
+        "placement": 2,
+        "prize": "150 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "MiXeR",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "UA"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 15 GOLD",
+    "date": "2017-02-24",
+    "bracket": "http://carnage.challonge.com/uniorzQC15_GOLD_1725",
+    "video": "https://youtu.be/E2KGbV-nbJ8",
+    "results": [
+      {
+        "nickname": "Ondest",
+        "placement": 1,
+        "prize": "10 EUR Steam card (donated it back to\u00a0prize\u00a0fund), 1 chest + 1 backpack",
+        "country": "RU"
+      },
+      {
+        "nickname": "badUggly",
+        "placement": 2,
+        "prize": "150 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Zuno",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge Duel Cup 15 SILVER",
+    "date": "2017-02-24",
+    "bracket": "http://carnage.challonge.com/uniorzQC15_SILVER_1350",
+    "results": [
+      {
+        "nickname": "BarsMinsk",
+        "placement": 1,
+        "prize": "10 EUR Steam card",
+        "country": "BY"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 14 DIAMOND",
     "date": "2017-02-17",
     "bracket": "http://carnage.challonge.com/uniorzQC14_DIAMOND_2100",
@@ -29,6 +93,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 14 GOLD",
     "date": "2017-02-17",
     "bracket": "http://carnage.challonge.com/uniorzQC14_GOLD_1725",
+    "video": "https://www.youtube.com/watch?v=14jwWpyMl38&list=PLhBZp2W3AbYrm-kBAoG-sBHBr4KD_1GbJ",
     "results": [
       {
         "nickname": "Klyb",
@@ -54,7 +119,7 @@
     "tournamentName": "Uniorz Challenge Duel Cup 14 SILVER",
     "date": "2017-02-17",
     "bracket": "http://carnage.challonge.com/uniorzQC14_SILVER_1350",
-    "video": "https://www.youtube.com/watch?v=cSBgtRdo85o",
+    "video": "https://vk.com/video-139862086_456239116",
     "results": [
       {
         "nickname": "MysticZol",
