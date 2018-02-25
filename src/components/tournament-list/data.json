@@ -1,5 +1,27 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC 2v2 Cup #0 Medium/High Skill players",
+    "date": "2018-02-25",
+    "bracket": "http://carnage.challonge.com/uniorzQCTDM0_MID_HIGH",
+    "results": [
+      {
+        "nickname": "Troolz & pecka",
+        "placement": 1,
+        "country": "RU"
+      },
+      {
+        "nickname": "def1 & MiXeR",
+        "placement": 2,
+        "country": "UA"
+      },
+      {
+        "nickname": " Клуберий+sidir",
+        "placement": 3,
+        "country": "RU"
+      }
+]
+[
+  {
     "tournamentName": "Uniorz Challenge Duel Cup 15 DIAMOND",
     "date": "2017-02-24",
     "bracket": "http://carnage.challonge.com/uniorzQC15_DIAMOND_2100",
