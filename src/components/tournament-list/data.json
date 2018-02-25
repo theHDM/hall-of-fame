@@ -60,6 +60,18 @@
         "placement": 1,
         "prize": "10 EUR Steam card",
         "country": "BY"
+      },
+      {
+        "nickname": "UHTL",
+        "placement": 2,
+        "prize": "150 RUR Steam card",
+        "country": "UA"
+      },
+      {
+        "nickname": "PWNDx",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
       }
     ]
   },
