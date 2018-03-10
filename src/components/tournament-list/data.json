@@ -1,5 +1,76 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #17 DIAMOND",
+    "date": "2017-03-10",
+    "bracket": "http://carnage.challonge.com/uniorzQC17_DIAMOND_2100",
+    "results": [
+      {
+        "nickname": "ProVest",
+        "placement": 1,
+        "prize": "2 chests + 2 backpacks",
+        "country": "RU"
+      },
+      {
+        "nickname": "gorky",
+        "placement": 2,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      },
+      {
+        "nickname": "kroker",
+        "placement": 3,
+        "country": "BY"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #17 GOLD",
+    "date": "2017-03-10",
+    "bracket": "http://carnage.challonge.com/uniorzQC17_GOLD_1725",
+    "results": [
+      {
+        "nickname": "Revan",
+        "placement": 1,
+        "prize": "Razer Goliathus Speed Terra Edition Medium",
+        "country": "RU"
+      },
+      {
+        "nickname": "badUggly",
+        "placement": 2,
+        "country": "RU"
+      },
+      {
+        "nickname": "Taka",
+        "placement": 3,
+        "country": "DE"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #17 SILVER",
+    "date": "2017-03-10",
+    "bracket": "http://carnage.challonge.com/uniorzQC17_SILVER_1350",
+    "video": "https://www.youtube.com/watch?v=vFJzu-BLTFQ",
+    "results": [
+      {
+        "nickname": "BarsMinsk",
+        "placement": 1,
+        "prize": "1 chest + 1 backpack",
+        "country": "BY"
+      },
+      {
+        "nickname": "PotatoEater",
+        "placement": 2,
+        "country": "BY"
+      },
+      {
+        "nickname": "deathvu",
+        "placement": 3,
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC Duel Cup #16 DIAMOND",
     "date": "2017-03-03",
     "bracket": "http://carnage.challonge.com/uniorzQC16_DIAMOND_2100",
@@ -55,11 +126,12 @@
     "tournamentName": "Uniorz Challenge QC Duel Cup #16 SILVER",
     "date": "2017-03-03",
     "bracket": "http://carnage.challonge.com/uniorzQC16_SILVER_1350",
+    "video": "https://www.youtube.com/watch?v=9ZxT7jJr99o",
     "results": [
       {
         "nickname": "NikitkaKalmar",
         "placement": 1,
-        "prize": "200 RUR (donated it back to prize fund)",
+        "prize": "200 RUR",
         "country": "RU"
       },
       {
