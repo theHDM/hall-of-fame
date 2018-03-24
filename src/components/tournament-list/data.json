@@ -1,8 +1,86 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #18 DIAMOND",
+    "date": "2017-03-24",
+    "bracket": "http://carnage.challonge.com/uniorzQC18_DIAMOND_2100",
+    "results": [
+      {
+        "nickname": "Troolz",
+        "placement": 1,
+        "prize": "Quake T-shirt",
+        "country": "RU"
+      },
+      {
+        "nickname": "pecka",
+        "placement": 2,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "CH33RRA",
+        "placement": 3,
+        "prize": "300 RUR",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #18 GOLD",
+    "date": "2017-03-24",
+    "bracket": "http://carnage.challonge.com/uniorzQC18_GOLD_1725",
+    "video": "https://www.youtube.com/watch?v=tZqx_EAg0hw&feature=youtu.be",
+    "results": [
+      {
+        "nickname": "Zuno",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "AZiDeX",
+        "placement": 2,
+        "prize": "4 chests + 4 backpacks",
+        "country": "RU"
+      },
+      {
+        "nickname": "Mickl",
+        "placement": 3,
+        "prize": "2 chests + 2 backpacks",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #18 SILVER",
+    "date": "2017-03-24",
+    "bracket": "http://carnage.challonge.com/uniorzQC18_SILVER_1350",
+    "video": "https://www.youtube.com/watch?v=MekpNWGEhKg&feature=youtu.be",
+    "results": [
+      {
+        "nickname": "Stealmer",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Leppard",
+        "placement": 2,
+        "prize": "300 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "baragoz",
+        "placement": 3,
+        "prize": "2 chests + 2 backpacks",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC Duel Cup #17 DIAMOND",
     "date": "2017-03-10",
     "bracket": "http://carnage.challonge.com/uniorzQC17_DIAMOND_2100",
+    "video": "https://www.youtube.com/watch?v=IXHqjrMoFVY&list=PL81RL9OKZHKRqGxA1grRnwzMMgT6HX3Hi",
     "results": [
       {
         "nickname": "ProVest",
@@ -27,6 +105,7 @@
     "tournamentName": "Uniorz Challenge QC Duel Cup #17 GOLD",
     "date": "2017-03-10",
     "bracket": "http://carnage.challonge.com/uniorzQC17_GOLD_1725",
+    "video": "https://www.youtube.com/watch?v=4pfUYJ96MnU",
     "results": [
       {
         "nickname": "Revan",
