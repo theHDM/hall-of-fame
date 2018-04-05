@@ -1,8 +1,31 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC 2v2 Cup #1",
+    "date": "2017-04-05",
+    "bracket": "https://carnage.challonge.com/uniorzQCTDM1_LOW",
+    "results": [
+      {
+        "nickname": "pecka & Rell",
+        "placement": 1,
+        "country": "RU"
+      },
+      {
+        "nickname": "nLbooza & ZixGeeSu",
+        "placement": 2,
+        "country": "RU"
+      },
+      {
+        "nickname": "Dreikblack & klyb",
+        "placement": 3,
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC Duel Cup #18 DIAMOND",
     "date": "2017-03-24",
     "bracket": "http://carnage.challonge.com/uniorzQC18_DIAMOND_2100",
+    "video": "https://www.youtube.com/watch?v=dSdTR304pDk",
     "results": [
       {
         "nickname": "Troolz",
