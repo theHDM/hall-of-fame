@@ -1,8 +1,111 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #19 DIAMOND",
+    "date": "2017-04-07",
+    "bracket": "https://carnage.challonge.com/uniorzQC19_DIAMOND_2100",
+    "video": "https://www.youtube.com/watch?v=PZlota5o854&list=PL81RL9OKZHKQ6UYZkG_Cb8mCPo-UKziCb",
+    "results": [
+      {
+        "nickname": "ProVest",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Troolz",
+        "placement": 2,
+        "prize": "300 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "pdemon",
+        "placement": 3,
+        "prize": "2 chests + 2 backpacks",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #19 GOLD",
+    "date": "2017-04-07",
+    "bracket": "https://carnage.challonge.com/uniorzQC19_GOLD_1725",
+    "video": "https://www.youtube.com/watch?v=-OgaxbkpBU8&list=PLM2GWd9jxjZfnUtJF6j7-N9o2ESJodS-5",
+    "results": [
+      {
+        "nickname": "Ganibal",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Howl",
+        "placement": 2,
+        "prize": "300 RUR (donated it back to prize fund)",
+        "country": "RU"
+      },
+      {
+        "nickname": "GobStar",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #19 SILVER",
+    "date": "2017-04-07",
+    "bracket": "http://carnage.challonge.com/uniorzQC19_SILVER_1350",
+    "results": [
+      {
+        "nickname": "LinuzhVdn",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Smashzoom",
+        "placement": 2,
+        "prize": "300 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "namemane",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QL Duel Cup #15 Elo Masters 1700",
+    "date": "2017-04-07",
+    "bracket": "https://carnage.challonge.com/uniorzQL15_Masters_Elo_1700",
+    "results": [
+      {
+        "nickname": "Ice313",
+        "placement": 1,
+        "prize": "150 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "prestij",
+        "placement": 2,
+        "prize": "100 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "quader",
+        "placement": 3,
+        "prize": "50 RUR",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC 2v2 Cup #1",
     "date": "2017-04-05",
     "bracket": "https://carnage.challonge.com/uniorzQCTDM1_LOW",
+    "video": "https://www.youtube.com/watch?v=kVfYeawXmsE&list=PLM2GWd9jxjZdO19hbkM-0FOF6_2rKx8e9",
     "results": [
       {
         "nickname": "pecka & Rell",
