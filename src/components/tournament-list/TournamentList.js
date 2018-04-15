@@ -36,7 +36,8 @@ export default class TournamentList extends Component {
       <div className="container">
         <h1 className="display-3 text-center mb-5 mt-2">Carnage League Hall Of&nbsp;Fame</h1>
         <div className='mb-5'>
-          <YoutubeEmbed src="https://www.youtube.com/watch?v=AXkNNGk2LwI"/>
+          <YoutubeEmbed src="https://www.youtube.com/watch?v=AXkNNGk2LwI"
+                        title="Uniorz Challenge Participants' Highlights"/>
         </div>
         <SearchInput handleChange={this.filterByNickName}/>
         {tournamentItems}
