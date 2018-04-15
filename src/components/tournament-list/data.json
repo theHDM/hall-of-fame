@@ -1,5 +1,31 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QL Duel Cup #16 Elo Masters 1700",
+    "date": "2017-04-14",
+    "bracket": "https://carnage.challonge.com/uniorzQL16_Masters_Elo_1700",
+    "video": "https://youtu.be/a2QJFxMTSaY?t=446",
+    "results": [
+      {
+        "nickname": "Wh1t3r",
+        "placement": 1,
+        "prize": "150 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "quader",
+        "placement": 2,
+        "prize": "100 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "ollir",
+        "placement": 3,
+        "prize": "50 RUR",
+        "country": "FI"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC Duel Cup #19 DIAMOND",
     "date": "2017-04-07",
     "bracket": "https://carnage.challonge.com/uniorzQC19_DIAMOND_2100",
@@ -80,6 +106,7 @@
     "tournamentName": "Uniorz Challenge QL Duel Cup #15 Elo Masters 1700",
     "date": "2017-04-07",
     "bracket": "https://carnage.challonge.com/uniorzQL15_Masters_Elo_1700",
+    "video": "https://youtu.be/ym1Z4v3bCfg",
     "results": [
       {
         "nickname": "Ice313",
