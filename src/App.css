@@ -66,3 +66,7 @@
         fill: #D4145A;;
     }
 }
+
+.navbar--carnage {
+    background: linear-gradient(45deg, #FCA5F1, #B5FFFF);
+}

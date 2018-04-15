@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import Tournament from "../tournament/Tournament";
 import SearchInput from '../search-input/SearchInput';
 import YoutubeEmbed from '../youtube-embed/YoutubeEmbed';
-import data from './data.json';
 
 export default class TournamentList extends Component {
   state = {
@@ -10,12 +9,12 @@ export default class TournamentList extends Component {
   };
   componentDidMount() {
     this.setState({
-      tournaments: data
+      tournaments: this.props.tournaments
     });
   }
   filterByNickName = evt => {
-    console.log(evt.target.value);
-    const filteredTournaments = data.filter(tournament => {
+    // console.log(evt.target.value);
+    const filteredTournaments = this.props.tournaments.filter(tournament => {
       const searchedNickname = evt.target.value.toLowerCase();
       return tournament.results.some(result =>
         result.nickname.toLowerCase().indexOf(searchedNickname) >= 0
