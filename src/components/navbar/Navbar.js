@@ -29,7 +29,7 @@ export default class Example extends React.Component {
         return (
             <Navbar className="navbar--carnage border-bottom" sticky="top" light expand="md">
                 <Container>
-                    <NavbarBrand href="/">Carnage!!</NavbarBrand>
+                    <NavbarBrand tag={RouterNavLink} to="/">Carnage!!</NavbarBrand>
                     <NavbarToggler onClick={this.toggle}/>
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="mr-auto" navbar>
