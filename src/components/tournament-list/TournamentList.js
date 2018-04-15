@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Tournament from "../tournament/Tournament";
-import SearchInput from '../search-input/SearchInput'
+import SearchInput from '../search-input/SearchInput';
+import YoutubeEmbed from '../youtube-embed/YoutubeEmbed';
 import data from './data.json';
 
 export default class TournamentList extends Component {
@@ -34,6 +35,9 @@ export default class TournamentList extends Component {
     return (
       <div className="container">
         <h1 className="display-3 text-center mb-5 mt-2">Carnage League Hall Of&nbsp;Fame</h1>
+        <div className='mb-5'>
+          <YoutubeEmbed src="https://www.youtube.com/watch?v=AXkNNGk2LwI"/>
+        </div>
         <SearchInput handleChange={this.filterByNickName}/>
         {tournamentItems}
       </div>

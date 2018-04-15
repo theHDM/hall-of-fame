@@ -6,6 +6,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "country-code-emoji": "0.0.1",
+    "embed-video": "^2.0.4",
     "emoji.css": "^1.0.1",
     "flag-icon-css": "^2.9.0",
     "jquery": "^3.2.1",
