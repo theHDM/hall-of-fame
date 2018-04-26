@@ -25,7 +25,7 @@ export default class VideoGrid extends Component {
 
         return (
             <div className="container">
-                <h1 className="display-3 mb-5 mt-2">Video</h1>
+                <h1 className="display-3 mb-5 mt-2">VODs</h1>
                 <div className="row">
                     {videoColumns}
                 </div>

@@ -38,7 +38,10 @@ export default class Example extends React.Component {
                                     Fame</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink tag={RouterNavLink} to="/video" activeClassName="active">Video</NavLink>
+                                <NavLink tag={RouterNavLink} to="/media" activeClassName="active">Media</NavLink>
+                            </NavItem>
+                            <NavItem>
+                                <NavLink tag={RouterNavLink} to="/vods" activeClassName="active">VODs</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink tag={RouterNavLink} to="/about" activeClassName="active">About</NavLink>
